@@ -17,6 +17,12 @@ Then, you can install this package using Poetry:
 ```{bash}
 poetry add riskalphaindics
 ```
+
+Or just use
+```{bash}
+pip install riskalphaindics
+```
+
 ## Usage
 
 Below are some examples of how to use the indicators in this package.
